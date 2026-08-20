@@ -1,11 +1,12 @@
 
 
 
-Infrastructure Component 	AWS  	Microsoft Azure  	Google Cloud Platform  
-Compute 	Amazon EC2	 Azure Virtual Machines          	Google Compute Engine
-Storage 	Amazon S3	 Azure Blob Storage	                Google Cloud Storage
-Networking 	Amazon VPC 	 Azure Virtual Network	                Google Virtual Private Cloud
-Identity and Access Management (IAM) 	AWS IAM	Microsoft Entra ID	Google Cloud IAM
+| Infrastructure Component | AWS | Microsoft Azure | Google Cloud Platform |
+|---|---|---|---|
+| Compute | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
+| Storage | Amazon S3 | Azure Blob Storage | Google Cloud Storage |
+| Networking | Amazon VPC | Azure Virtual Network | Google Virtual Private Cloud |
+| Identity and Access Management (IAM) | AWS IAM | Microsoft Entra ID | Google Cloud IAM |
 
 
 1. Which cloud provider offers the broadest range of services? Explain your answer.
