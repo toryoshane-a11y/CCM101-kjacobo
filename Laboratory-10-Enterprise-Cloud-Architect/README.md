@@ -4,7 +4,7 @@
 
 A secure, automated, multi-tier private cloud environment: **WordPress + MariaDB** in Docker containers on **Ubuntu Server** inside **VirtualBox**, hardened with **UFW** and managed by a **Bash script on a cron schedule**.
 
-![Architecture](architecture-diagram.png)
+![Architecture](architecture.png)
 
 ## Stack
 
