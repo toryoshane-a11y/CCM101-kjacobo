@@ -1,0 +1,2 @@
+# Daily health check + backup at 2:00 AM (install with: crontab -e)
+0 2 * * * /home/ranny/cloudnova-stack/scripts/automation-script.sh all >> /home/ranny/cloudnova-backups/cron.log 2>&1
